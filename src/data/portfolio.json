@@ -1,0 +1,117 @@
+{
+  "personal": {
+    "name": "Parijat Bhattacharjee",
+    "title": "Full-stack Developer",
+    "description": "Full-stack Developer with an experience of 2 years and a passion for AI, frontend, and backend technologies. Constantly exploring new challenges and building innovative solutions. Find me on GitHub, LinkedIn and Twitter, always sharing new projects and insights.",
+    "image": "https://utfs.io/f/NtrpVLRyI4W6A85RC3VMp6lciJjUWPSV20T4eDnCKIuXFvLo",
+    "resumeUrl": "https://drive.google.com/file/d/187mZFa06HwY0I7rcoYSMCb8KhAVgTPrL/view",
+    "location": "Guwahati, Assam",
+    "email": "parijatbhatt1@gmail.com"
+  },
+  "socials": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/POBOROJO"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/parijat-bhattacharjee-97741a177/"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/poborojo"
+    }
+  ],
+  "skills": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "Express",
+    "Python",
+    "PostgreSQL",
+    "MongoDB",
+    "Java",
+    "C++",
+    "C",
+    "DSA",
+    "TailwindCSS",
+    "Bootstrap",
+    "Shadcn UI",
+    "Magic UI",
+    "Git",
+    "GitHub",
+    "Bash"
+  ],
+  "projects": [
+    {
+      "title": "Kanha GPT",
+      "description": "With the release of the Gemini API, I developed Kanha GPT, a web app that enables users to have conversations with Lord Krishna, offering real-time, personalized responses based on the Bhagavad Gita's teachings.",
+      "image": "https://utfs.io/f/NtrpVLRyI4W6kwbE0FzOHWeKjiqvQGgP07znVosuyXBcUJ3M",
+      "github": "https://github.com/POBOROJO/Kanha-GPT",
+      "demo": "https://kanha-gpt.netlify.app/"
+    },
+    {
+      "title": "JUSTIFIED",
+      "description": "Developed JUSTIFIED, a web application that provides legal advice based on Indian laws and the Indian Penal Code (IPC) through an intuitive and user-friendly interface.",
+      "image": "https://utfs.io/f/NtrpVLRyI4W6uk3uw4iB3bX5ltRJIuVpPgrKa7dxLkUvDs6S",
+      "github": "https://github.com/MET4L-DS/AskMe",
+      "demo": "https://law-gpt.netlify.app/"
+    },
+    {
+      "title": "VirtualR",
+      "description": "Developed the frontend for VirtualR, a Virtual Reality tool designed to empower developers in building immersive VR applications.",
+      "image": "https://utfs.io/f/NtrpVLRyI4W6iNe3ObZXWgVdjMJYbSlw9nm3e41N0EhTtz62",
+      "github": "https://github.com/POBOROJO/PRACTICE/tree/main/tailwind/practice1",
+      "demo": "https://virtualr-nine.vercel.app/"
+    },
+    {
+      "title": "GDSC Explore 4.0",
+      "description": "I was part of the frontend team in building this website, this was the largest developers fest in North Eastern India.",
+      "image": "https://utfs.io/f/NtrpVLRyI4W6TzqDaljdTq8uk9t0cWQ6PZeaALBU3SgJzoYw",
+      "github": "https://github.com/gdsc-nits-org/gdsc-explore-4.0/tree/main",
+      "demo": "https://gdsc-explore.xyz/"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Littlebox",
+      "position": "Software Development Engineer Intern",
+      "duration": "June 2024 - July 2024",
+      "description": "Developed and optimized backend services using Node.js and Express for a clothing e-commerce platform. Integrated secure authentication with JWT, implemented image upload functionality with Multer, and protected routes to ensure robust user interactions."
+    },
+    {
+      "company": "Indian Institute of Technology, Guwahati",
+      "position": "Summer Intern",
+      "duration": "July 2023 - August 2023",
+      "description": "Achieved high accuracy and coherence in Bengali news article summarization by applying advanced NLP techniques and fine-tuning models to optimize performance and relevance."
+    }
+  ],
+  "achievements": [
+    {
+      "title": "HackVita 2.0",
+      "date": "March 23rd - 24th, 2024",
+      "location": "Jorhat, Assam",
+      "description": "Secured the 2nd Position in HackVita 2.0, Developed an application to educate and empower individuals to make environmentally conscious choices in their daily lives.",
+      "image": "/hack-vita.jpeg",
+      "link": "https://github.com/POBOROJO/EcoFront"
+    },
+    {
+      "title": "Ideavision 2024",
+      "date": "August 23rd - 24th, 2024",
+      "location": "Guwahati, Assam",
+      "description": "Secured 2nd position as part of a team for presenting an innovative solution in Ideavision competition under the Institution's Innovation Council.",
+      "image": "https://utfs.io/f/NtrpVLRyI4W6gNRq8d43yZMQtuhaV9qUoYGDxXsR6dK3PH0n",
+      "link": "https://drive.google.com/file/d/13wLSA92mlpIo6es7DD7BlmaeRjiujNk5/view"
+    },
+    {
+      "title": "Circuit Untangled Event",
+      "date": "January 23rd, 2022",
+      "location": "Guwahati, Assam",
+      "description": "Secured 1st position in circuit building competition in the 'CIRCUIT UNTANGLED' event.",
+      "image": "https://utfs.io/f/NtrpVLRyI4W6y9s4VSQoen6h2CbMXHql8ZGf3iuYJVsDFjKQ",
+      "link": "https://drive.google.com/file/d/1oKUZfQFaxRkpK38KR3qNlkD5IvQn06CB/view"
+    }
+  ]
+}

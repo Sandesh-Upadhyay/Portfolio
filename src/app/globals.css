@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection {
+  @apply bg-blue-600 text-white;
+}
+
+.skill-scroll {
+  @apply flex animate-infinite-scroll;
+}
+
+.skill-scroll:hover {
+  animation-play-state: paused;
+}
